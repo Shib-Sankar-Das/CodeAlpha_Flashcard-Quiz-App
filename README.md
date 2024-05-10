@@ -1,4 +1,4 @@
-# Online Quiz App with Firebase
+# Online Flashcard Quiz App with Firebase
 
 #UI
 
